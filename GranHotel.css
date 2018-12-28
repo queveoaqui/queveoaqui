@@ -1,0 +1,14 @@
+body {
+  background-image: url("GranHotel2.jpg");
+}
+
+div {
+  background-color: #dbb46d;
+}
+h2 {
+  text-align:center;
+  background-color: #dbb46d;
+}
+h2{
+  font-family: Vegur, 'PT Sans', Verdana, Sans-serif;
+}

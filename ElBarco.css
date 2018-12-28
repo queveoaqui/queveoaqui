@@ -1,0 +1,14 @@
+body {
+  background-image: url("ElBarco2.jpg");
+}
+
+div {
+  background-color: #6daddb;
+}
+h2 {
+  text-align:center;
+  background-color: #6daddb;
+}
+h2{
+  font-family: Vegur, 'PT Sans', Verdana, Sans-serif;
+}
